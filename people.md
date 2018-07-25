@@ -9,8 +9,8 @@ title: People
 
 **G Gordon Worley III**
 
-Gordon is our founder and Director of Research. He is a researcher working to address the existential risks of AI. He was introduced to the issue in the early 2000s by Nick Bostrom and Eliezer Yudkowsky and has made it a priority ever since. His current work focuses on using phenomenological methods to perform philosophical investigations into fundamental issues relevant to AI alignment research.
+Gordon is our founder and Director of Research, working to address existential risks created by artificial general intelligence. He was introduced to x-risks in the early 2000s by Nick Bostrom and Eliezer Yudkowsky, and after many years of looking for ways he could work to reduce them, he realized he could combine his interests in phenomenology, philosophy, mathematics, and AI to address x-risks through academic research. His current work focuses on using phenomenological methods to perform philosophical investigations into fundamental issues relevant to AGI alignment research.
 
 # Fellows
 
-We are currently accepting applications for fellows. You can apply and request more information by reaching out at contact@pairsi.org.
+We are currently accepting applications for fellows. You can nominate yourself and request more information by reaching out to contact@pairsi.org.
