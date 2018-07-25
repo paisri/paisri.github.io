@@ -9,3 +9,7 @@ permalink: none
 #markdown: redcarpet
 #pygments: true
 timezone: America/Los_Angeles
+header_pages:
+ - index.md
+ - people.md
+ - publications.md
