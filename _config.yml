@@ -1,7 +1,7 @@
 name: Phenomenological AI Safety Research Institute
 description: none
 url: https://paisri.org/
-remote_theme: minima
+remote_theme: jekyll/minima
 permalink: none
 #markdown: redcarpet
 #pygments: true
