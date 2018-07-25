@@ -19,4 +19,4 @@ title: Publications
 
 - [Safety in Machine Learning](https://www.lesswrong.com/posts/3iP8P57mNpHBFfYkd/safety-in-machine-learning)
 - [Thoughts on "AI Safety via Debate"](https://www.lesswrong.com/posts/WRy6KNnxwQHc5Ktjc/thoughts-on-ai-safety-via-debate)
-- [How safe "safe" AI development](https://www.lesswrong.com/posts/JDZsoykx3KBp8ptEi/how-safe-safe-ai-development)
+- [How safe "safe" AI development?](https://www.lesswrong.com/posts/JDZsoykx3KBp8ptEi/how-safe-safe-ai-development)
