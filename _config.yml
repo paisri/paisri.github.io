@@ -1,11 +1,10 @@
 name: Phenomenological AI Safety Research Institute
 description: none
 url: https://paisri.org/
-
+remote_theme: minima
 permalink: none
 markdown: redcarpet
 pygments: true
 timezone: America/Los_Angeles
-
 author: PAISRI
 author_email: contact@paisri.org
