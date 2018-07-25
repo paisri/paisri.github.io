@@ -9,7 +9,7 @@ title: Publications
 
 # General audience
 
-- [Avoiding AI Races Through Self-Regulation](https://mapandterritory.org/avoiding-ai-races-through-self-regulation-1b815fca6b06) - Runner up to the Solving the AI Race General Challenge
+- [Avoiding AI Races Through Self-Regulation](https://mapandterritory.org/avoiding-ai-races-through-self-regulation-1b815fca6b06) - Runner up to the [Solving the AI Race General AI Challenge](https://medium.com/goodai-news/solving-the-ai-race-finalists-15-000-of-prizes-5f57d1f6a45f)
 - [Computational Complexity of P-Zombies](https://mapandterritory.org/computational-complexity-of-p-zombies-fc56909af96f)
 - [AI Alignment and Phenomenal Consciousness](https://mapandterritory.org/ai-alignment-and-phenomenal-consciousness-2ca23de6aebd)
 - [Formally Stating the AI Alignment Problem](https://mapandterritory.org/formally-stating-the-ai-alignment-problem-fe7a6e3e5991)
