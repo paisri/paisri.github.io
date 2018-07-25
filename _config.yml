@@ -1,10 +1,12 @@
-name: Phenomenological AI Safety Research Institute
-description: none
+title: Phenomenological AI Safety Research Institute
+author: PAISRI
+email: contact@paisri.org
+description: >
+  The Phenomenological AI Safety Research Insitute (PAISRI) researches AI and AGI safety issues such as alignment
+  using phenomenological research techniques.
 url: https://paisri.org/
 remote_theme: jekyll/minima
 permalink: none
 #markdown: redcarpet
 #pygments: true
 timezone: America/Los_Angeles
-author: PAISRI
-author_email: contact@paisri.org
