@@ -5,7 +5,7 @@ title: People
 
 # Director of Research
 
-![Picture of G Gordon Worley III](/img/head_ggordonworleyiii.jpg){:height="100" align="left" style="margin: 10pt"}
+![Picture of G Gordon Worley III](/img/head_ggordonworleyiii.jpg){:height="100" align="left" style="margin-right: 10pt; margin-bottom: 10pt;"}
 
 **G Gordon Worley III**
 
