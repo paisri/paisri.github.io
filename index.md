@@ -20,10 +20,10 @@ At PAIRSI we value
 
 We're located in Berkeley, California and in frequent contact with other researchers and organizations working on issues related to existential risks and AI safety. We are especially fans of the following groups and their work:
 
-* Machine Intelligence Research Institute
-* Future of Humanity Institute
-* Foundational Research Institute
-* Qualia Research Institute
+* [Machine Intelligence Research Institute](https://intelligence.org/)
+* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+* [Foundational Research Institute](https://foundational-research.org/)
+* [Qualia Research Institute](https://qualiaresearchinstitute.org/)
 
 # Contact
 
