@@ -5,7 +5,7 @@ title: Publications
 
 # Academic Publications and Preprints
 
-- Robustness to fundamental uncertainty in AGI alignment
+- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836)
 
 # General audience
 
