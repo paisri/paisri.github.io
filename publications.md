@@ -5,7 +5,7 @@ title: Publications
 
 # Academic Publications and Preprints
 
-- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836)
+- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836) - To appear in Journal of Consciousness Studies
 - [Avoiding AGI races through self-regulation](https://www.preprints.org/manuscript/201810.0030/v2)
 
 # General audience
