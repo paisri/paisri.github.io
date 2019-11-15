@@ -22,6 +22,7 @@ title: Publications
 
 # Notes
 
+- [TAISU 2019 Field Report](https://www.lesswrong.com/posts/MmX2ZqET2QDYpSMDp/taisu-2019-field-report)
 - [HLAI 2018 Field Report](https://www.lesswrong.com/posts/axsizR4vEX8qtuLpR/hlai-2018-field-report)
 - [Safety in Machine Learning](https://www.lesswrong.com/posts/3iP8P57mNpHBFfYkd/safety-in-machine-learning)
 - [Thoughts on "AI Safety via Debate"](https://www.lesswrong.com/posts/WRy6KNnxwQHc5Ktjc/thoughts-on-ai-safety-via-debate)
