@@ -14,10 +14,11 @@ title: Publications
 - [Goodhart's Curse and Limitations on AI Alignment](https://www.lesswrong.com/posts/NqQxTn5MKEYhSnbuB/goodhart-s-curse-and-limitations-on-ai-alignment)
 - [A developmentally-situated approach to teaching normative behavior to AI](https://www.lesswrong.com/posts/uEAvtbtEBdsQJMdh8/a-developmentally-situated-approach-to-teaching-normative) - Winner of the [EthicsNet Guardians' Challenge](https://www.herox.com/EthicsNet/community)
 - [Avoiding AI Races Through Self-Regulation](https://mapandterritory.org/avoiding-ai-races-through-self-regulation-1b815fca6b06) - Runner up to the [Solving the AI Race General AI Challenge](https://medium.com/goodai-news/solving-the-ai-race-finalists-15-000-of-prizes-5f57d1f6a45f)
-- [Computational Complexity of P-Zombies](https://mapandterritory.org/computational-complexity-of-p-zombies-fc56909af96f)
-- [AI Alignment and Phenomenal Consciousness](https://mapandterritory.org/ai-alignment-and-phenomenal-consciousness-2ca23de6aebd)
-- [Formally Stating the AI Alignment Problem](https://mapandterritory.org/formally-stating-the-ai-alignment-problem-fe7a6e3e5991)
-- [Towards and Axiological Approach to AI Alignment](https://mapandterritory.org/towards-an-axiological-approach-to-ai-alignment-4993d044d1b8)
+- [Phenomenological AI Alignment Introduction](https://www.lesswrong.com/s/CRvxidrCkp7YE7gSK)
+  - [Computational Complexity of P-Zombies](https://mapandterritory.org/computational-complexity-of-p-zombies-fc56909af96f)
+  - [AI Alignment and Phenomenal Consciousness](https://mapandterritory.org/ai-alignment-and-phenomenal-consciousness-2ca23de6aebd)
+  - [Formally Stating the AI Alignment Problem](https://mapandterritory.org/formally-stating-the-ai-alignment-problem-fe7a6e3e5991)
+  - [Towards and Axiological Approach to AI Alignment](https://mapandterritory.org/towards-an-axiological-approach-to-ai-alignment-4993d044d1b8)
 
 # Notes
 
