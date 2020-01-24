@@ -10,7 +10,9 @@ title: Publications
 
 # General audience
 
-- [Minimization of prediction error as a foundation for human values in AI alignment](https://www.lesswrong.com/posts/Cu7yv4eM6dCeA67Af/minimization-of-prediction-error-as-a-foundation-for-human)
+- [Formal Alignment Introduction](https://www.lesswrong.com/s/sv2CwqTCso8wDdmmi)
+  - [Values, Valence, and Alignment](https://www.lesswrong.com/posts/ALvnz3DrjHwmLG29F/values-valence-and-alignment)
+  - [Minimization of prediction error as a foundation for human values in AI alignment](https://www.lesswrong.com/posts/Cu7yv4eM6dCeA67Af/minimization-of-prediction-error-as-a-foundation-for-human)
 - [Goodhart's Curse and Limitations on AI Alignment](https://www.lesswrong.com/posts/NqQxTn5MKEYhSnbuB/goodhart-s-curse-and-limitations-on-ai-alignment)
 - [A developmentally-situated approach to teaching normative behavior to AI](https://www.lesswrong.com/posts/uEAvtbtEBdsQJMdh8/a-developmentally-situated-approach-to-teaching-normative) - Winner of the [EthicsNet Guardians' Challenge](https://www.herox.com/EthicsNet/community)
 - [Avoiding AI Races Through Self-Regulation](https://mapandterritory.org/avoiding-ai-races-through-self-regulation-1b815fca6b06) - Runner up to the [Solving the AI Race General AI Challenge](https://medium.com/goodai-news/solving-the-ai-race-finalists-15-000-of-prizes-5f57d1f6a45f)
