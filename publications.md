@@ -3,18 +3,19 @@ layout: page
 title: Publications
 ---
 
-# Academic Publications and Preprints
+# Academic Publications
 
-- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836) - To appear in Journal of Consciousness Studies
-- [Avoiding AGI races through self-regulation](https://www.preprints.org/manuscript/201810.0030/v2)
+- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836), [Journal of Consciousness Studies, Volume 27, Numbers 1-2, 2019, pp. 225-241(17)](https://www.ingentaconnect.com/contentone/imp/jcs/2019/00000027/f0020001/art00010)
 
-# Technical Notes
+# Technical Communications
 
 - [Formal Alignment Introduction](https://www.lesswrong.com/s/sv2CwqTCso8wDdmmi)
+  - [Towards deconfusing values](https://www.lesswrong.com/posts/WAqG5BQMzAs34mpc2/towards-deconfusing-values)
   - [Values, Valence, and Alignment](https://www.lesswrong.com/posts/ALvnz3DrjHwmLG29F/values-valence-and-alignment)
   - [Minimization of prediction error as a foundation for human values in AI alignment](https://www.lesswrong.com/posts/Cu7yv4eM6dCeA67Af/minimization-of-prediction-error-as-a-foundation-for-human)
   - [Formally Stating the AI Alignment Problem](https://mapandterritory.org/formally-stating-the-ai-alignment-problem-fe7a6e3e5991)
 - [Goodhart's Curse and Limitations on AI Alignment](https://www.lesswrong.com/posts/NqQxTn5MKEYhSnbuB/goodhart-s-curse-and-limitations-on-ai-alignment)
+- [Avoiding AGI races through self-regulation](https://www.preprints.org/manuscript/201810.0030/v2)
 
 # Articles
 
