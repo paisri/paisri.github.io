@@ -5,7 +5,7 @@ title: Publications
 
 # Academic Publications
 
-- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836), appearing in [Journal of Consciousness Studies, Volume 27, Numbers 1-2, 2019, pp. 225-241(17)](https://www.ingentaconnect.com/contentone/imp/jcs/2019/00000027/f0020001/art00010)
+- [Robustness to fundamental uncertainty in AGI alignment](https://arxiv.org/abs/1807.09836), appearing in [Journal of Consciousness Studies, Volume 27, Numbers 1-2, 2019, pp. 225-241(17)](https://www.ingentaconnect.com/openurl?genre=article&issn=1355-8250&volume=27&issue=1*&spage=225&epage=241&aulast=Worley+III)
 
 # Technical Communications
 
