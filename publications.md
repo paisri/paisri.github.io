@@ -18,6 +18,7 @@ title: Publications
 # Research Notes
 
 - [Formal Alignment Introduction](https://www.lesswrong.com/s/sv2CwqTCso8wDdmmi)
+  - [Deconfusing Human Values Research Agenda v1](https://www.lesswrong.com/posts/k8F8TBzuZtLheJt47/deconfusing-human-values-research-agenda-v1)
   - [Towards deconfusing values](https://www.lesswrong.com/posts/WAqG5BQMzAs34mpc2/towards-deconfusing-values)
   - [Values, Valence, and Alignment](https://www.lesswrong.com/posts/ALvnz3DrjHwmLG29F/values-valence-and-alignment)
   - [Minimization of prediction error as a foundation for human values in AI alignment](https://www.lesswrong.com/posts/Cu7yv4eM6dCeA67Af/minimization-of-prediction-error-as-a-foundation-for-human)
