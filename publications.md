@@ -10,6 +10,7 @@ title: Publications
 
 # Technical Communications
 
+- [Comparing AI Alignment Approaches to Minimize False Positive Risk](https://www.lesswrong.com/posts/eXNy48LxxfgETdtYB/comparing-ai-alignment-approaches-to-minimize-false-positive)
 - [Goodhart's Curse and Limitations on AI Alignment](https://www.lesswrong.com/posts/NqQxTn5MKEYhSnbuB/goodhart-s-curse-and-limitations-on-ai-alignment)
 - [A developmentally-situated approach to teaching normative behavior to AI](https://www.lesswrong.com/posts/uEAvtbtEBdsQJMdh8/a-developmentally-situated-approach-to-teaching-normative) - Winner of the [EthicsNet Guardians' Challenge](https://www.herox.com/EthicsNet/community)
 - [Avoiding AGI races through self-regulation](https://www.preprints.org/manuscript/201810.0030/v2) ([general audience version](https://mapandterritory.org/avoiding-ai-races-through-self-regulation-1b815fca6b06)) - Runner up to the [Solving the AI Race General AI Challenge](https://medium.com/goodai-news/solving-the-ai-race-finalists-15-000-of-prizes-5f57d1f6a45f)
