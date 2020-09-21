@@ -13,4 +13,4 @@ Gordon is our founder and Director of Research, working to address existential r
 
 # Fellows
 
-We are currently accepting applications for fellows. You can nominate yourself and request more information by reaching out to contact@pairsi.org.
+We are currently accepting applications for fellows. You can nominate yourself and request more information by reaching out to contact@paisri.org.
