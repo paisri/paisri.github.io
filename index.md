@@ -9,7 +9,7 @@ The Phenomenological AI Safety Research Institute (**PAISRI**) exists to perform
 
 # Values
 
-At PAIRSI we value
+At PAISRI we value
 
 * Compassion for all life
 * Careful, rigorous, and precise thought
@@ -22,9 +22,9 @@ We're located in Berkeley, California and in frequent contact with other researc
 
 * [Machine Intelligence Research Institute](https://intelligence.org/)
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
-* [Foundational Research Institute](https://foundational-research.org/)
+* [Center on Long-Term Risk](https://longtermrisk.org/)
 * [Qualia Research Institute](https://qualiaresearchinstitute.org/)
 
 # Contact
 
-All inquires should be directed to contact@paisri.org.
+All inquiries should be directed to contact@paisri.org.
