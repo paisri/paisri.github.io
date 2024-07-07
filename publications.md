@@ -18,6 +18,9 @@ title: Publications
 
 # Research Notes
 
+- [Finding the Wisdom to Build Safe AI](https://www.lesswrong.com/posts/pchAuTJhfKJS2s8it/finding-the-wisdom-to-build-safe-ai)
+- [Dangers of Closed-Loop AI](https://www.lesswrong.com/posts/JkmWBS6LZtXpCYQjz/dangers-of-closed-loop-ai)
+- [Bootstrapped Alignment](https://www.lesswrong.com/posts/teCsd4Aqg9KDxkaC9/bootstrapped-alignment)
 - [Formal Alignment Introduction](https://www.lesswrong.com/s/sv2CwqTCso8wDdmmi)
   - [Deconfusing Human Values Research Agenda v1](https://www.lesswrong.com/posts/k8F8TBzuZtLheJt47/deconfusing-human-values-research-agenda-v1)
   - [Towards deconfusing values](https://www.lesswrong.com/posts/WAqG5BQMzAs34mpc2/towards-deconfusing-values)
