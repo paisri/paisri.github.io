@@ -18,7 +18,7 @@ At PAISRI we value
 
 # Friends
 
-We're located in Berkeley, California and in frequent contact with other researchers and organizations working on issues related to existential risks and AI safety. We are especially fans of the following groups and their work:
+We're located in San Francisco, California and in frequent contact with other researchers and organizations working on issues related to existential risks and AI safety. We are especially fans of the following groups and their work:
 
 * [Machine Intelligence Research Institute](https://intelligence.org/)
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
